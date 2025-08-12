@@ -4,12 +4,12 @@ The general idea of this repo is to collect SQL queries that can be useful at ev
 
 The whole collection has been split into object objects:
 
-* [database related queries](databases.sql)
-* [table related queries](tables.sql)
-* [table partitions related queries](partitions.sql)
-* [column related queries](columns.sql)
-* [index related queries](indexes.sql)
-* [user related queries](user.sql)
+* [database related queries](mysql/databases.sql)
+* [table related queries](mysql/tables.sql)
+* [table partitions related queries](mysql/partitions.sql)
+* [column related queries](mysql/columns.sql)
+* [index related queries](mysql/indexes.sql)
+* [user related queries](mysql/user.sql)
 
 ## See also
 
